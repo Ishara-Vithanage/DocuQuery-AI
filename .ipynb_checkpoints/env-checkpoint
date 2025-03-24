@@ -1,0 +1,5 @@
+LANGSMITH_TRACING="true"
+LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
+LANGSMITH_API_KEY="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"
+LANGSMITH_PROJECT="pr-stupendous-anywhere-42"
+GROQ_API_KEY="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"
